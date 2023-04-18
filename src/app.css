@@ -34,7 +34,7 @@
 /* LAYOUT */
 
 /* TASK */
-.task {
+/* .task {
   padding: 1.5rem;
   background-color: #fff;
   border-radius: 5px;
@@ -46,6 +46,7 @@
 .task h3 {
   font-size: 18px;
   color: #c8781a;
+  @apply text-lg text-[#c8781a];
 }
 
 .task p {
@@ -73,9 +74,9 @@
   margin-right: 4px;
   margin-bottom: 6px;
   border-radius: 30px;
-}
+} */
 
-.deadline {
+/* .deadline {
   font-size: 12px;
   padding-top: 4px;
 }
@@ -84,7 +85,7 @@
   padding: 3px 8px;
   border-radius: 2px;
   display: inline-block;
-}
+} */
 
 .normal {
   background-color: #ffd9d4;
